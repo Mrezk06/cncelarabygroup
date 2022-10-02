@@ -1,0 +1,258 @@
+{
+  "todos": [
+    {
+      "id": 1658060581408,
+      "title": "Some Todo"
+    },
+    {
+      "id": 1658060584087,
+      "title": "Some Todo"
+    },
+    {
+      "id": 1658060585631,
+      "title": "Some Todo"
+    },
+    {
+      "id": 1658060591719,
+      "title": "Some Todo"
+    },
+    {
+      "id": 1658060591933,
+      "title": "Some Todo"
+    },
+    {
+      "id": 1658060593541,
+      "title": "Some Todo"
+    },
+    {
+      "id": 1658061085977,
+      "title": "Some Todo"
+    },
+    {
+      "id": 1658061087624,
+      "title": "Some Todo"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Mantan": [
+    {
+      "Status": "fvfrd",
+      "Start": "2022-08-03T13:26",
+      "End": "2022-08-03T13:26",
+      "PIC": "dsc",
+      "Task": "sdcsz",
+      "id": 1
+    },
+    {
+      "Status": "dbgxdf",
+      "Start": "2022-08-03T13:28",
+      "End": "2022-08-03T13:28",
+      "PIC": "asnmcds",
+      "Task": "fdxxcxcdf",
+      "id": 2
+    },
+    {
+      "Status": "Done",
+      "Start": "2022-08-21T21:42",
+      "End": "2022-08-21T21:52",
+      "PIC": "maintenance1",
+      "Task": "Door Luck",
+      "id": 3
+    }
+  ],
+  "Login": [
+    {
+      "id": 1,
+      "username": "MR",
+      "password": "2020"
+    },
+    {
+      "username": "mhamdy",
+      "password": "2010",
+      "id": 2
+    },
+    {
+      "username": "prtlr;",
+      "password": "ltrjlty",
+      "id": 3
+    },
+    {
+      "username": "kdflmkbgr",
+      "password": "dfmk;",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "results": [
+    {
+      "month": "Jan",
+      "price": "180"
+    },
+    {
+      "month": "Feb",
+      "price": "200"
+    },
+    {
+      "month": "March",
+      "price": "210"
+    },
+    {
+      "month": "April",
+      "price": "190"
+    },
+    {
+      "month": "May",
+      "price": "240"
+    },
+    {
+      "month": "June",
+      "price": "230"
+    },
+    {
+      "month": "July",
+      "price": "260"
+    },
+    {
+      "month": "Aug",
+      "price": "210"
+    },
+    {
+      "month": "Sept",
+      "price": "300"
+    }
+  ],
+  "factory": [
+    {
+      "FactoryName": "TPCB",
+      "task": "60000250",
+      "dep": "FAT",
+      "Duration": "112121",
+      "Start": "2022-07-29T04:05",
+      "End": "2022-07-29T04:05",
+      "PIC": "MOhamed",
+      "MID": "MR",
+      "Qty1": "200",
+      "Qty2": "100",
+      "id": 2
+    },
+    {
+      "FactoryName": "TEVP",
+      "task": "65820300",
+      "dep": "MFG",
+      "Duration": "112121",
+      "Start": "2022-07-22T16:06",
+      "End": "2022-07-22T16:06",
+      "PIC": "202020",
+      "MID": "5215415",
+      "Qty1": "100",
+      "Qty2": "80",
+      "id": 3
+    },
+    {
+      "FactoryName": "EPCB",
+      "task": "96320002",
+      "dep": "WH",
+      "Duration": "112121",
+      "Start": "2022-07-29T04:08",
+      "End": "2022-07-29T04:10",
+      "PIC": "MRezk",
+      "MID": "MR",
+      "Qty1": "36",
+      "Qty2": "20",
+      "id": 4
+    },
+    {
+      "FactoryName": "EPCB",
+      "task": "33330002",
+      "dep": "MFG",
+      "Duration": "212",
+      "Start": "2022-07-30T04:10",
+      "End": "2022-07-30T10:15",
+      "PIC": "Hamdy",
+      "MID": "gktghktr",
+      "Qty1": "120",
+      "Qty2": "80",
+      "id": 5
+    },
+    {
+      "FactoryName": "TEVP",
+      "task": "936239",
+      "dep": "MFG",
+      "Duration": "tkhd",
+      "Start": "2022-08-01T23:04",
+      "End": "2022-08-02T23:04",
+      "PIC": "fdl;,hl",
+      "MID": "202002",
+      "Qty1": "20",
+      "Qty2": "20",
+      "id": 6
+    },
+    {
+      "FactoryName": "TEVP",
+      "task": "20102010",
+      "dep": "MFG",
+      "Duration": "2020",
+      "Start": "2022-07-31T14:43",
+      "End": "2022-07-31T14:48",
+      "PIC": "EngHamdy",
+      "MID": "1022",
+      "Qty1": "80",
+      "Qty2": "150",
+      "id": 7
+    },
+    {
+      "FactoryName": "TPCB",
+      "task": "63663",
+      "dep": "MFG",
+      "Duration": "565656",
+      "Start": "2022-07-31T14:00",
+      "End": "2022-07-31T17:49",
+      "PIC": "23121",
+      "MID": "215245",
+      "Qty1": "120",
+      "Qty2": "140",
+      "id": 8
+    },
+    {
+      "FactoryName": "TEVP",
+      "task": "H Printing",
+      "dep": "MFG",
+      "Duration": "65",
+      "Start": "2022-08-21T21:36",
+      "End": "2022-08-21T22:41",
+      "PIC": "MHamdy",
+      "MID": "3X1S",
+      "Qty1": "1",
+      "Qty2": "1",
+      "id": 9
+    },
+    {
+      "FactoryName": "TEVP",
+      "task": "HP Printing",
+      "dep": "MFG",
+      "Duration": "60",
+      "Start": "2022-08-21T21:40",
+      "End": "2022-08-22T21:40",
+      "PIC": "MHamdy",
+      "MID": "3X1S",
+      "Qty1": "20",
+      "Qty2": "20",
+      "id": 10
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
